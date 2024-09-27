@@ -155,6 +155,7 @@ def turnos():
             print ("Has ganado!")
 
 '''POSIBLES/FUTURAS MEJORAS:
+- arreglar los errores para la terminal
 - enlazar el código funcionando a partir de los disparos (está dividido entre el avance en casa y el avance de la clase)
 - contador de vidas que se vayan mostrando
 - mejorar los condicionantes de los outputs del turno al disparar segun el output del disparo
