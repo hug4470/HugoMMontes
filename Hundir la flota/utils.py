@@ -157,7 +157,8 @@ def turnos():
 '''POSIBLES/FUTURAS MEJORAS:
 - enlazar el código funcionando a partir de los disparos (está dividido entre el avance en casa y el avance de la clase)
 - contador de vidas que se vayan mostrando
-- mejorar los condicionantes de los outputs del turno al disparar segun el output del disparo'''
+- mejorar los condicionantes de los outputs del turno al disparar segun el output del disparo
+- implementar atributos a clase Barco: Tocado, hundido, intacto'''
 
 '''NOTAS:
 Código 100% independiente alcanzado en clase:'''
