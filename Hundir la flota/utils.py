@@ -158,10 +158,11 @@ def turnos():
 - enlazar el código funcionando a partir de los disparos (está dividido entre el avance en casa y el avance de la clase)
 - contador de vidas que se vayan mostrando
 - mejorar los condicionantes de los outputs del turno al disparar segun el output del disparo
-- implementar atributos a clase Barco: Tocado, hundido, intacto'''
+- implementar atributos a clase Barco: Tocado, hundido, intacto
+- implementar README al repo'''
 
 '''NOTAS:
-Código 100% independiente alcanzado en clase:'''
+Código alcanzado en clase:'''
 
 # tablero = crear_tablero(10)  
 
