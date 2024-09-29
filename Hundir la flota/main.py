@@ -1,21 +1,9 @@
 import numpy as np
-import random
 import utils
 
-print("mapas de prueba")
+utils.iniciador()
 
-utils.crearaleatorios
+tablero_jugador, barcos_jugador = utils.iniciador_jugador()
+tablero_maquina, barcos_maquina = utils.iniciador_maquina()
 
-utils.crearaleatorios
-
-utils.crearaleatorios
-
-utils.crearaleatorios
-
-utils.crearaleatorios
-
-print ("fin de la prueba")
-
-utils.iniciador
-
-utils.turnos
+# utils.turnos()

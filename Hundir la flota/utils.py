@@ -90,18 +90,18 @@ def disparar (casilla,tablero):
 '''DEFINIMOS LA FUNCION QUE SE EJECUTARA PARA GENERAR EL TABLERO Y LA LISTA DE BARCOS DEL JUGADOR'''
 
 def iniciador_jugador():
-    crear_barcos_aleatorios(tamaño_tablero=10)
-    return tablero_jugador, barcos_jugador
+    crear_barcos_aleatorios (tamaño_tablero=10)
+    return
 
-tablero_jugador, barcos_jugador = iniciador_jugador
+tablero_jugador, barcos_jugador = iniciador_jugador()
 
 '''DEFINIMOS LA FUNCION QUE SE EJECUTARA PARA GENERAR EL TABLERO Y LA LISTA DE BARCOS DE LA MAQUINA'''
 
 def iniciador_maquina():
     crear_barcos_aleatorios(tamaño_tablero=10)
-    return tablero_maquina, barcos_maquina
+    return 
+tablero_maquina, barcos_maquina = iniciador_maquina()
 
-tablero_maquina, barcos_maquina = iniciador_maquina
 
 '''DEFINIMOS UN INICIADOR QUE EJECUTE AMBOS INICIADORES'''
 
@@ -130,8 +130,8 @@ def turno_jugador(casilla):
 
 def turno_maquina(casilla):
     casilla = (fila,columna)
-    fila = (int(input("Introduce una fila para disparar"))-1)
-    columna = (int(input("Introduce una columna para disparar"))-1)
+    fila = (int(random.randint(0, len(tablero_jugador) - 1)))
+    columna = (int(random.randint(0, len(tablero_jugador) - 1)))
 
     disparar(casilla, tablero_jugador)
 
@@ -155,15 +155,12 @@ def turnos():
             print ("Has ganado!")
 
 '''POSIBLES/FUTURAS MEJORAS:
-- arreglar los errores para la terminal
 - enlazar el código funcionando a partir de los disparos (está dividido entre el avance en casa y el avance de la clase)
 - contador de vidas que se vayan mostrando
-- mejorar los condicionantes de los outputs del turno al disparar segun el output del disparo
-- implementar atributos a clase Barco: Tocado, hundido, intacto
-- implementar README al repo'''
+- mejorar los condicionantes de los outputs del turno al disparar segun el output del disparo'''
 
 '''NOTAS:
-Código alcanzado en clase:'''
+Código 100% independiente alcanzado en clase:'''
 
 # tablero = crear_tablero(10)  
 

@@ -75,3 +75,37 @@ def crear_barcos_aleatorios(tamaño_tablero=10):
                     colocado = True
 
     return tablero, barcos
+
+tablero, barcos = crear_barcos_aleatorios(tamaño_tablero=10)
+
+def disparar(casilla, tablero):
+    """
+    Realiza un disparo en la casilla especificada del tablero.
+    
+    Args:
+        casilla (tuple): Tupla (fila, columna) que representa la coordenada del disparo.
+        tablero (numpy.ndarray): El tablero donde se realiza el disparo.
+    
+    Returns:
+        numpy.ndarray: El tablero actualizado tras el disparo.
+    """
+    fila = casilla[0]-1
+    columna = casilla[1]-1  # Desempaquetamos la tupla en fila y columna
+
+    # Comprobamos que las coordenadas estén dentro del rango del tablero
+    if 0 <= fila < tablero.shape[0] and 0 <= columna < tablero.shape[1]:
+        if tablero[fila, columna] == "O":
+            print("Tocado")
+            tablero[fila, columna] = "X"  # Marcar como tocado
+        elif tablero[fila, columna] == "_":
+            print("Agua")
+            tablero[fila, columna] = "A"  # Marcar como agua
+        else:
+            print("Ya has disparado a esta casilla.")
+    else:
+        print("Coordenadas fuera del tablero.")
+
+    return tablero
+
+disparar ((3,6), tablero)
+print(tablero)
