@@ -1,0 +1,1055 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:j.1="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <foaf:Document rdf:about="http://data.europa.eu/euodp/en/data/dataset/S2251_91_4_493_ENG">
+    <foaf:topic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/s2251_91_4_493_eng">
+        <dct:title xml:lang="lt-t-en-t0-mtec">Specialioji „Eurobarometro“ apklausa Nr. 493. Diskriminacija ES (įskaitant LGBTI asmenis)</dct:title>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Osobitný prieskum Eurobarometra č. 493: Diskriminácia v EÚ (vrátane LGBTI osôb)</dct:title>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Проучването се фокусира върху възприятията, нагласите и мненията на човека за дискриминация, основана на етнически произход, цвят на кожата, сексуална ориентация, пол, възраст, увреждане, религия и убеждения. Това показва, че в сравнение с 2015 г. по-малко граждани на ЕС понастоящем възприемат дискриминацията като широко разпространена в своята страна. Въпреки това възприятията, мненията и нагласите все още се различават значително в зависимост от дискриминираната група, както и от отделните държави.
+Работа на терен: 09—21/05/2019 
+######Резултатите по обеми се разпределят, както следва:
+* Обем А: Държави * Обем AA:
+Групи държави
+* Обем A' (AP):
+Тенденции * Обем AA' (AAP):
+Тенденции на групи от държави * Обем B:
+ЕС/социално-демографика * Обем B' (BP):
+Тенденции в ЕС/социално-демографиката
+* Обем С: Държава/социално-демографика
+
+—
+
+Изследователите могат също така да се свържат с GESIS — Институт за социални науки в Лайбниц:
+[https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/AUT"/>
+        </dct:spatial>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/363eb8da-afe8-4951-abb0-dccfaa308f9c">
+            <dct:description xml:lang="sl-t-en-t0-mtec">ebs_493_volume_A_xls.zip</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/b7ac8922-4434-4c28-8f68-1570cd407444</dct:identifier>
+            <dct:description xml:lang="pt-t-en-t0-mtec">ebs_493_volume_A_xls.zip</dct:description>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Povezava do ebs_493_volume_A_xls.zip.zip</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Odkaz na ebs_493_volume_A_xls.zip.zip</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Link către ebs_493_volume_A_xls.zip.zip</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Link do ebs_493_volume_A_xls.zip.zip</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Odkaz na ebs_493_volume_A_xls.zip.zip</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Link a ebs_493_volume_A_xls.zip.zip</dct:title>
+            <dct:description xml:lang="hu-t-en-t0-mtec">ebs_493_volume_A_xls.zip</dct:description>
+            <dct:description xml:lang="da-t-en-t0-mtec">ebs_493_volume_A_xls.zip</dct:description>
+            <dct:description xml:lang="fi-t-en-t0-mtec">ebs_493_volume_A_xls.zip</dct:description>
+            <dct:description xml:lang="de-t-en-t0-mtec">ebs_493_volume_A_xls.zip</dct:description>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:description xml:lang="sk-t-en-t0-mtec">ebs_493_objem_A_xls.zip</dct:description>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Nasc chuig ebs_493_volume_A_xls.zip.zip</dct:title>
+            <dct:description xml:lang="lt-t-en-t0-mtec">ebs_493_tūris_A_xls.zip</dct:description>
+            <dct:description xml:lang="sv-t-en-t0-mtec">ebs_493_volym_A_xls.zip</dct:description>
+            <dcat:accessURL rdf:resource="https://webgate.ec.europa.eu/eurobarometer/api/public/odp/download?key=6F4C63956A678B7B443F95C8C303BFD9"/>
+            <dct:description xml:lang="et-t-en-t0-mtec">ebs_493_volume_A_xls.zip</dct:description>
+            <dct:description xml:lang="es-t-en-t0-mtec">ebs_493_volumen_A_xls.zip</dct:description>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="da-t-en-t0-mtec">Link til ebs_493_volume_A_xls.zip.zip.zip</dct:title>
+            <dct:title xml:lang="en">Link to ebs_493_volume_A_xls.zip.zip</dct:title>
+            <dct:description xml:lang="cs-t-en-t0-mtec">ebs_493_objem_A_xls.zip</dct:description>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Nuoroda į ebs_493_volume_A_xls.zip.zip</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2019-10-28</dct:issued>
+            <dct:title xml:lang="de-t-en-t0-mtec">Link zu ebs_493_volume_A_xls.zip.zip</dct:title>
+            <dct:description xml:lang="ga-t-en-t0-mtec">ebs_493_volume_A_xls.zip</dct:description>
+            <dct:description xml:lang="bg-t-en-t0-mtec">ebs_493_обем_A_xls.zip</dct:description>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Saite uz ebs_493_tilpums_A_xls.zip.zip</dct:title>
+            <dct:description xml:lang="en">ebs_493_volume_A_xls.zip</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Link naar ebs_493_volume_A_xls.zip.zip</dct:title>
+            <dct:description xml:lang="lv-t-en-t0-mtec">ebs_493_tilpums_A_xls.zip</dct:description>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="mt-t-en-t0-mtec">ebs_493_volume_A_xls.zip</dct:description>
+            <dct:description xml:lang="ro-t-en-t0-mtec">ebs_493_volume_A_xls.zip</dct:description>
+            <dct:title xml:lang="es-t-en-t0-mtec">Enlace a ebs_493_volume_A_xls.zip.zip</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Link para ebs_493_volume_A_xls.zip.zip</dct:title>
+            <dct:description xml:lang="fr-t-en-t0-mtec">ebs_493_volume_A_xls.zip</dct:description>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Länk till ebs_493_volym_A_xls.zip.zip</dct:title>
+            <dct:description xml:lang="it-t-en-t0-mtec">ebs_493_volume_A_xls.zip</dct:description>
+            <dct:description xml:lang="el-t-en-t0-mtec">ebs_493_όγκος_A_xls.zip</dct:description>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Връзка към ebs_493_volume_A_xls.zip.zip</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Linkki sivustoon ebs_493_volume_A_xls.zip.zip</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">ebs_493_tom_A_xls.zip</dct:description>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Poveznica na ebs_493_volume_A_xls.zip.zip</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">ebs_493_volume_A_xls.zip</dct:description>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Link għal ebs_493_volume_A_xls.zip.zip</dct:title>
+            <dct:description xml:lang="hr-t-en-t0-mtec">ebs_493_volume_A_xls.zip</dct:description>
+            <dct:title xml:lang="el-t-en-t0-mtec">Σύνδεσμος προς ebs_493_volume_A_xls.zip.zip</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Link a következőhöz: ebs_493_volume_A_xls.zip.zip</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Lien vers ebs_493_volume_A_xls.zip.zip</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Link ebs_493_volume_A_xls.zip.zip</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        </dcat:theme>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Istraživanje je usmjereno na percepciju, stavove i mišljenja osoba o diskriminaciji na temelju etničkog podrijetla, boje kože, seksualne orijentacije, spola, dobi, invaliditeta, vjere i uvjerenja. To pokazuje da je, u usporedbi s 2015., manje građana EU-a sada smatra da je diskriminacija raširena u svojoj zemlji.Međutim, percepcije, mišljenja i stavovi i dalje se uvelike razlikuju ovisno o diskriminiranoj skupini, ali i od zemlje do zemlje.
+ Terenski rad:09 – 21/05/2019
+
+######Rezultati po volumenima raspoređuju se na sljedeći način:  * Volumen A:Zemlje
+* Volumen AA:
+Skupine zemalja * Svezak A' (AP):
+Trendovi
+* Volumen AA' (AAP): Trendovi skupina zemalja
+* Volumen B:
+EU/sociodemografija * Volumen B' (BP):
+Trendovi EU-a/sociodemografije
+* Volumen C:
+Zemlja/sociodemografija  —
+
+Istraživači se također mogu obratiti GESIS-u – Leibniz Institutu za društvene znanosti:
+[https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/MLT"/>
+        </dct:spatial>
+        <dct:description xml:lang="fr-t-en-t0-mtec">L’enquête porte sur les perceptions, les attitudes et les opinions des personnes à l’égard de la discrimination fondée sur l’origine ethnique, la couleur de la peau, l’orientation sexuelle, le sexe, l’âge, le handicap, la religion et les convictions. Il montre que, par rapport à 2015, moins de citoyens de l’UE perçoivent désormais la discrimination comme étant répandue dans leur pays. Toutefois, les perceptions, les opinions et les attitudes varient encore considérablement selon le groupe discriminé et aussi d’un pays à l’autre.
+Travaux sur le terrain: 09-21/05/2019 
+##### Les résultats par volume sont répartis comme suit:
+* Volume A: Pays * Volume AA:
+Groupes de pays
+* Volume A' (AP):
+Tendances * Volume AA" (AAP):
+Tendances des groupes de pays * Volume B:
+UE/sociodémographie * Volume B' (BP):
+Tendances de l’UE/sociodémographie
+* Volume C: Pays/sociodémographie
+
+—
+
+Les chercheurs peuvent également contacter GESIS — Leibniz Institute for the Social Sciences:
+[https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/POL"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/FRA"/>
+        </dct:spatial>
+        <dcat:keyword xml:lang="en">discrimination</dcat:keyword>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Az Eurobarométer 493. sz. különjelentése: Megkülönböztetés az EU-ban (beleértve az LMBTI-személyeket is)</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/DEU"/>
+        </dct:spatial>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/COMMU"/>
+        </dct:publisher>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Dírítear sa suirbhé ar dhearcthaí, dearcthaí agus tuairimí an duine maidir le hidirdhealú atá bunaithe ar bhunús eitneach, dath craicinn, gnéaschlaonadh, inscne, aois, míchumas, reiligiún agus creideamh. Léirítear ann, i gcomparáid le 2015, go mbraitheann níos lú saoránach de chuid an Aontais go bhfuil an t-idirdhealú forleathan ina dtír féin. Mar sin féin, tá éagsúlacht mhór fós ann idir tuairimí, tuairimí agus dearcthaí ag brath ar an ngrúpa a ndéantar idirdhealú ina choinne agus ó thír go tír freisin.
+Obair allamuigh: 09-21/05/2019 
+Déantar ##### na torthaí de réir imleabhar a dháileadh mar seo a leanas:
+* Imleabhar A: Tíortha * Imleabhar AA:
+Grúpaí tíortha
+* Imleabhar A' (AP):
+Treochtaí * Imleabhar AA' (AAP):
+Treochtaí grúpaí tíortha * Imleabhar B:
+AE/sochdhéimeagrafacha * Imleabhar B' (BP):
+Treochtaí an Aontais/sochdhéimeagrafacha
+* Imleabhar C: Tír/sochdhéimeagrafacha
+
+—
+
+Féadfaidh taighdeoirí teagmháil a dhéanamh freisin le GESIS — Institiúid Leibniz um na hEolaíochtaí Sóisialta:
+[https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:title xml:lang="en">Special Eurobarometer 493: Discrimination in the EU (including LGBTI)</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        </dcat:theme>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/ITA"/>
+        </dct:spatial>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Badanie koncentruje się na postrzeganiu, postawach i opiniach danej osoby na temat dyskryminacji ze względu na pochodzenie etniczne, kolor skóry, orientację seksualną, płeć, wiek, niepełnosprawność, religię i przekonania. Pokazuje to, że w porównaniu z 2015 r. mniej obywateli UE postrzega obecnie dyskryminację jako powszechną w ich kraju. Jednak postrzeganie, opinie i postawy nadal znacznie się różnią w zależności od grupy dyskryminowanej, a także w zależności od kraju.
+Praca w terenie:09-21/05/2019
+  ###### Wyniki według woluminów są rozdzielane w następujący sposób:
+* Objętość A:Kraje
+
+* Objętość AA: Grupy krajów
+* Objętość A' (AP): Tendencje
+* Objętość AA' (AAP): Tendencje grup krajów
+* Objętość B: UE/socjodemografia
+
+* Objętość B' (BP):
+Tendencje w UE/socjodemografii
+
+* Objętość C:
+Kraj/socjodemografia
+
+—
+
+Naukowcy mogą również skontaktować się z GESIS – Instytutem Nauk Społecznych w Leibniz:
+[https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/SVN"/>
+        </dct:spatial>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Tutkimuksessa keskitytään henkilön käsityksiin, asenteisiin ja mielipiteisiin etniseen alkuperään, ihonväriin, seksuaaliseen suuntautumiseen, sukupuoleen, ikään, vammaisuuteen, uskontoon ja vakaumukseen perustuvasta syrjinnästä. Se osoittaa, että vuoteen 2015 verrattuna yhä harvemmat EU:n kansalaiset pitävät syrjintää laajalle levinneenä omassa maassaan. Näkemykset, mielipiteet ja asenteet vaihtelevat kuitenkin edelleen suuresti syrjinnän kohteena olevan ryhmän ja myös maiden välillä.
+Kenttätyö: 09–21/05/2019
+
+
+#####Tulokset jaotellaan volyymeittain seuraavasti:
+
+* Osa A:
+Maat
+
+* Tilavuus AA:
+Maaryhmät
+
+* Tilavuus A’ (AP):
+Suuntaukset
+
+* Tilavuus AA’ (AAP):
+Maaryhmien kehityssuuntaukset
+
+* Osa B:
+EU/sosiodemografiikka
+
+* Tilavuus B’ (BP):
+EU:n/sosiodemografiikan suuntaukset
+
+* Osa C:
+Maa/sosiodemografiikka
+
+—
+
+Tutkijat voivat myös ottaa yhteyttä GESIS – Leibniz Institute for the Social Sciences:
+[https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Raziskava se osredotoča na dojemanje, odnos in mnenja posameznika o diskriminaciji na podlagi etničnega porekla, barve kože, spolne usmerjenosti, spola, starosti, invalidnosti, vere in prepričanja. Kaže, da manj državljanov EU v primerjavi z letom 2015 meni, da je diskriminacija v njihovi državi razširjena.Vendar se dojemanje, mnenja in stališča še vedno zelo razlikujejo glede na skupino, ki je diskriminirana, in tudi od države do države.
+ Terensko delo:09–21/05/2019
+
+###### Rezultati po količinah se razdelijo na naslednji način:  * Zvezek A:Države
+* Glasnost AA:
+Skupine držav * Zvezek A’ (AP):
+Trendi
+* Glasnost AA’ (AAP): Trendi skupin držav
+* Zvezek B:
+EU/družbeno-demografika * Zvezek B’ (BP):
+Trendi v EU/socialno-demografiki
+* Glasnost C:
+Država/družbeno-demografika  —
+
+Raziskovalci se lahko obrnejo tudi na GESIS – Inštitut za družbene vede Leibniz:
+[https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:title xml:lang="fr-t-en-t0-mtec">Eurobaromètre spécial 493: Discrimination dans l’UE (y compris les personnes LGBTI)</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2019-10-28</dct:issued>
+        <dct:description xml:lang="it-t-en-t0-mtec">L'indagine si concentra sulle percezioni, gli atteggiamenti e le opinioni della persona sulla discriminazione basata sull'origine etnica, il colore della pelle, l'orientamento sessuale, il genere, l'età, la disabilità, la religione e le convinzioni personali. Ciò dimostra che, rispetto al 2015, un numero inferiore di cittadini dell'UE percepisce attualmente la discriminazione come diffusa nel loro paese. Tuttavia, le percezioni, le opinioni e gli atteggiamenti variano ancora ampiamente a seconda del gruppo discriminato e anche da un paese all'altro.
+Lavoro sul campo:09-21/05/2019
+ 
+###### I risultati per volumi sono distribuiti come segue:
+
+* Volume A:
+Paesi
+
+* Volume AA:
+Gruppi di paesi
+
+* Volume À (AP):
+Tendenze
+
+* Volume AÀ (PAA):
+Tendenze dei gruppi di paesi
+
+* Volume B:
+UE/sociodemografia
+
+* Volume B' (BP):
+Tendenze dell'UE/sociodemografiche
+
+* Volume C:
+Paese/sociodemografia
+
+—
+
+I ricercatori possono anche contattare GESIS — Leibniz Institute for the Social Sciences:
+[https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:title xml:lang="et-t-en-t0-mtec">Eurobaromeetri eriuuring nr 493: Diskrimineerimine ELis (sealhulgas LGBTI)</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">La encuesta se centra en las percepciones, actitudes y opiniones de la persona sobre la discriminación basada en el origen étnico, el color de la piel, la orientación sexual, el género, la edad, la discapacidad, la religión y las creencias. Muestra que, en comparación con 2015, cada vez menos ciudadanos de la UE consideran que la discriminación está generalizada en su país. Sin embargo, las percepciones, opiniones y actitudes siguen siendo muy diversas dependiendo del grupo discriminado y también de un país a otro.
+Trabajo de campo: 09-21/05/2019 
+##### Los resultados por volúmenes se distribuyen de la siguiente manera:
+* Volumen A: Países * Volumen AA:
+Grupos de países
+* Volumen A' (AP):
+Tendencias * Volumen AA' (AAP):
+Tendencias de los grupos de países * Volumen B:
+UE/sociodemografía * Volumen B' (BP):
+Tendencias de la UE/sociodemografía
+* Volumen C: Países/sociodemográficos
+
+—
+
+Los investigadores también pueden ponerse en contacto con GESIS — Leibniz Institute for the Social Sciences:
+[https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Eorabharaiméadar Speisialta 493: Idirdhealú san Aontas (lena n-áirítear LADTI)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/37ce7217-a435-4a6c-a5e3-83e5d3c5ea91">
+            <dct:description xml:lang="de-t-en-t0-mtec">ebs_493_volume_AP_xls.zip</dct:description>
+            <dct:description xml:lang="it-t-en-t0-mtec">ebs_493_volume_AP_xls.zip</dct:description>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Saite uz ebs_493_tilpums_AP_xls.zip.zip</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:description xml:lang="et-t-en-t0-mtec">ebs_493_volume_AP_xls.zip</dct:description>
+            <dct:title xml:lang="en">Link to ebs_493_volume_AP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">ebs_493_volume_AP_xls.zip</dct:description>
+            <dct:description xml:lang="fr-t-en-t0-mtec">ebs_493_volume_AP_xls.zip</dct:description>
+            <dct:title xml:lang="es-t-en-t0-mtec">Enlace a ebs_493_volume_AP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Link a ebs_493_volume_AP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="sv-t-en-t0-mtec">ebs_493_volym_AP_xls.zip</dct:description>
+            <dct:description xml:lang="pl-t-en-t0-mtec">ebs_493_volume_AP_xls.zip</dct:description>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Nuoroda į ebs_493_volume_AP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="mt-t-en-t0-mtec">ebs_493_volume_AP_xls.zip</dct:description>
+            <dct:description xml:lang="es-t-en-t0-mtec">ebs_493_volumen_AP_xls.zip</dct:description>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Link a következőhöz: ebs_493_volume_AP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="fi-t-en-t0-mtec">ebs_493_volume_AP_xls.zip</dct:description>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Povezava do ebs_493_volume_AP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="sk-t-en-t0-mtec">ebs_493_volume_AP_xls.zip</dct:description>
+            <dct:description xml:lang="ga-t-en-t0-mtec">ebs_493_volume_AP_xls.zip</dct:description>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Länk till ebs_493_volym_AP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Link para ebs_493_volume_AP_xls.zip.zip</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Link do ebs_493_volume_AP_xls.zip.zip.zip</dct:title>
+            <dct:description xml:lang="hu-t-en-t0-mtec">ebs_493_volume_AP_xls.zip</dct:description>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Lien vers ebs_493_volume_AP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Link către ebs_493_volume_AP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="bg-t-en-t0-mtec">ebs_493_volume_AP_xls.zip</dct:description>
+            <dct:description xml:lang="cs-t-en-t0-mtec">ebs_493_volume_AP_xls.zip</dct:description>
+            <dct:description xml:lang="da-t-en-t0-mtec">ebs_493_volume_AP_xls.zip</dct:description>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:description xml:lang="lv-t-en-t0-mtec">ebs_493_tilpums_AP_xls.zip</dct:description>
+            <dct:title xml:lang="et-t-en-t0-mtec">Link ebs_493_volume_AP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Odkaz na ebs_493_volume_AP_xls.zip.zip</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/bd5ffa32-f827-439d-9dfe-d4c8702d5530</dct:identifier>
+            <dct:description xml:lang="lt-t-en-t0-mtec">ebs_493_ tomas_AP_xls.zip</dct:description>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Link għal ebs_493_volume_AP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Poveznica na ebs_493_volume_AP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Link til ebs_493_volume_AP_xls.zip.zip.zip</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Nasc chuig ebs_493_volume_AP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">ebs_493_volume_AP_xls.zip</dct:description>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Odkaz na ebs_493_volume_AP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="sl-t-en-t0-mtec">ebs_493_volume_AP_xls.zip</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Link naar ebs_493_volume_AP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Link zu ebs_493_volume_AP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="hr-t-en-t0-mtec">ebs_493_volume_AP_xls.zip</dct:description>
+            <dct:description xml:lang="ro-t-en-t0-mtec">ebs_493_volume_AP_xls.zip</dct:description>
+            <dct:description xml:lang="pt-t-en-t0-mtec">ebs_493_volume_AP_xls.zip</dct:description>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2019-10-28</dct:issued>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Linkki sivustoon ebs_493_volume_AP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Връзка към ebs_493_volume_AP_xls.zip.zip.zip</dct:title>
+            <dct:description xml:lang="en">ebs_493_volume_AP_xls.zip</dct:description>
+            <dct:title xml:lang="el-t-en-t0-mtec">Σύνδεσμος προς ebs_493_volume_AP_xls.zip.zip</dct:title>
+            <dcat:accessURL rdf:resource="https://webgate.ec.europa.eu/eurobarometer/api/public/odp/download?key=9AD7CE11CF606AFE3F41ED594774C610"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="es-t-en-t0-mtec">Eurobarómetro especial 493: Discriminación en la UE (incluidas las personas LGBTI)</dct:title>
+        <dct:title xml:lang="de-t-en-t0-mtec">Eurobarometer-Sonderumfrage 493: Diskriminierung in der EU (einschließlich LGBTI)</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/LTU"/>
+        </dct:spatial>
+        <dct:title xml:lang="da-t-en-t0-mtec">Særlig Eurobarometerundersøgelse 493: Forskelsbehandling i EU (herunder LGBTI-personer)</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/NLD"/>
+        </dct:spatial>
+        <dct:language>
+          <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/ENG"/>
+        </dct:language>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dcat:keyword xml:lang="en">LGBTIQ+</dcat:keyword>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Průzkum se zaměřuje na vnímání, postoje a názory člověka na diskriminaci na základě etnického původu, barvy pleti, sexuální orientace, pohlaví, věku, zdravotního postižení, náboženského vyznání a přesvědčení. Ukazuje, že ve srovnání s rokem 2015 nyní méně občanů EU vnímá diskriminaci jako rozšířenou ve své zemi. Vnímání, názory a postoje se však stále značně liší v závislosti na skupině, která je diskriminována, a také v jednotlivých zemích.
+Práce v terénu: 09–21/05/2019
+
+######Výsledky podle objemů jsou rozděleny takto:
+* Objem A: Země
+* Objem AA: Skupiny zemí
+* Objem A’ (AP): Trendy
+* Objem AA’ (AAP): Trendy skupin zemí
+* Objem B: EU/sociodemografie
+* Objem B’ (BP): Trendy v oblasti EU/sociodemografie
+* Objem C: Země/sociodemografie
+—
+Výzkumní pracovníci mohou rovněž kontaktovat GESIS – Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ee552d19-d225-4e3b-a305-8f3c55dad692">
+            <dct:title xml:lang="da-t-en-t0-mtec">Link til ebs_493_volume_BP_xls.zip.zip.zip</dct:title>
+            <dct:description xml:lang="de-t-en-t0-mtec">ebs_493_volume_BP_xls.zip</dct:description>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Povezava na ebs_493_volume_BP_xls.zip.zip</dct:title>
+            <dcat:accessURL rdf:resource="https://webgate.ec.europa.eu/eurobarometer/api/public/odp/download?key=80FFB01FA8DF900A2C22E7402A7E173F"/>
+            <dct:description xml:lang="fi-t-en-t0-mtec">ebs_493_volume_BP_xls.zip</dct:description>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Poveznica na ebs_493_volume_BP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Link a ebs_493_volume_BP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Σύνδεσμος προς ebs_493_volume_BP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Saite uz ebs_493_tilpums_BP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="sv-t-en-t0-mtec">ebs_493_volym_BP_xls.zip</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">ebs_493_objem_BP_xls.zip</dct:description>
+            <dct:description xml:lang="it-t-en-t0-mtec">ebs_493_volume_BP_xls.zip</dct:description>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Nuoroda į ebs_493_volume_BP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="da-t-en-t0-mtec">ebs_493_volume_BP_xls.zip</dct:description>
+            <dct:description xml:lang="lv-t-en-t0-mtec">ebs_493_tilpums_BP_xls.zip</dct:description>
+            <dct:description xml:lang="pl-t-en-t0-mtec">ebs_493_volume_BP_xls.zip</dct:description>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Връзка към ebs_493_volume_BP_xls.zip.zip.zip</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Link do ebs_493_volume_BP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="hu-t-en-t0-mtec">ebs_493_volume_BP_xls.zip</dct:description>
+            <dct:description xml:lang="cs-t-en-t0-mtec">ebs_493_objem_BP_xls.zip</dct:description>
+            <dct:description xml:lang="fr-t-en-t0-mtec">ebs_493_volume_BP_xls.zip</dct:description>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Nasc chuig ebs_493_volume_BP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">ebs_493_όγκος_BP_xls.zip</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Link para ebs_493_volume_BP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Link naar ebs_493_volume_BP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Linkki sivustoon ebs_493_volume_BP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Link către ebs_493_volume_BP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Enlace a ebs_493_volume_BP_xls.zip.zip</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2019-10-28</dct:issued>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:description xml:lang="ro-t-en-t0-mtec">ebs_493_volume_BP_xls.zip</dct:description>
+            <dct:description xml:lang="mt-t-en-t0-mtec">ebs_493_volume_BP_xls.zip</dct:description>
+            <dct:title xml:lang="en">Link to ebs_493_volume_BP_xls.zip.zip</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/9a3d023f-04cb-4216-8d4c-ad96fd17a3f8</dct:identifier>
+            <dct:title xml:lang="et-t-en-t0-mtec">Link ebs_493_volume_BP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Link zu ebs_493_volume_BP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Länk till ebs_493_volym_BP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="bg-t-en-t0-mtec">ebs_493_обем_BP_xls.zip</dct:description>
+            <dct:description xml:lang="es-t-en-t0-mtec">ebs_493_volume_BP_xls.zip</dct:description>
+            <dct:description xml:lang="ga-t-en-t0-mtec">ebs_493_volume_BP_xls.zip</dct:description>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Odkaz na ebs_493_volume_BP_xls.zip.zip</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:description xml:lang="et-t-en-t0-mtec">ebs_493_volume_BP_xls.zip</dct:description>
+            <dct:description xml:lang="nl-t-en-t0-mtec">ebs_493_volume_BP_xls.zip</dct:description>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Link a következőhöz: ebs_493_volume_BP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Odkaz na ebs_493_volume_BP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="sl-t-en-t0-mtec">ebs_493_volume_BP_xls.zip</dct:description>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Link għal ebs_493_volume_BP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="lt-t-en-t0-mtec">ebs_493_tūris_BP_xls.zip</dct:description>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Lien vers ebs_493_volume_BP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="pt-t-en-t0-mtec">ebs_493_volume_BP_xls.zip</dct:description>
+            <dct:description xml:lang="en">ebs_493_volume_BP_xls.zip</dct:description>
+            <dct:description xml:lang="hr-t-en-t0-mtec">ebs_493_volume_BP_xls.zip</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Sondajul se concentrează asupra percepțiilor, atitudinilor și opiniilor persoanei cu privire la discriminarea bazată pe originea etnică, culoarea pielii, orientarea sexuală, sex, vârstă, handicap, religie și convingeri. Aceasta arată că, în comparație cu 2015, mai puțini cetățeni ai UE percep în prezent discriminarea ca fiind larg răspândită în țara lor.Cu toate acestea, percepțiile, opiniile și atitudinile variază încă foarte mult în funcție de grupul discriminat și, de asemenea, de la o țară la alta.
+ Activități pe teren:09-21/05/2019
+
+######Rezultatele pe volume sunt distribuite după cum urmează:  * Volumul A:Țări
+* Volum AA:
+Grupuri de țări * Volumul A’ (AP):
+Tendințe
+* Volum AA’ (AAP): Tendințe ale grupurilor de țări
+* Volumul B:
+UE/sociodemografie * Volumul B’ (BP):
+Tendințe ale UE/sociodemografiei
+* Volumul C:
+Țara/sociodemografia  —
+
+Cercetătorii pot contacta, de asemenea, GESIS – Leibniz Institute for the Social Sciences:
+[https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Apklausoje daugiausia dėmesio skiriama asmens suvokimui, požiūriui ir nuomonėms apie diskriminaciją dėl etninės kilmės, odos spalvos, seksualinės orientacijos, lyties, amžiaus, negalios, religijos ir įsitikinimų. Tai rodo, kad, palyginti su 2015 m., mažiau ES piliečių mano, kad diskriminacija yra plačiai paplitusi jų šalyje. Tačiau suvokimas, nuomonės ir požiūris vis dar labai skiriasi priklausomai nuo diskriminuojamos grupės ir nuo šalies.
+Darbas vietoje:09–21/05/2019
+  ####Rezultatai pagal apimtis paskirstomi taip:
+* Tūris A:Šalys
+
+* Tūris AA: Šalių grupės
+* A tomas’ (AP): Tendencijos 
+* AA tomas’ (AAP):
+Šalių grupių tendencijos
+
+* Tomas B:
+ES/socialiniai demografiniai duomenys
+
+* Tomas B’ (BP):
+ES/socialinės demografinės informacijos tendencijos
+
+* Tūris C:
+Šalis/socialinė demografinė informacija
+
+–
+
+Mokslininkai taip pat gali kreiptis į GESIS – Leibnizo socialinių mokslų institutą:
+[https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Eurobarómetro Especial n.º 493: Discriminação na UE (incluindo LGBTI)</dct:title>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Specjalne badanie Eurobarometr 493: Dyskryminacja w UE (w tym LGBTI)</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Ειδικό Ευρωβαρόμετρο 493: Διακρίσεις στην ΕΕ (συμπεριλαμβανομένων των ΛΟΑΔΜ)</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/DNK"/>
+        </dct:spatial>
+        <dcat:keyword xml:lang="en">eurobarometer</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/30b60b41-504b-424d-9448-7f826121ed13">
+            <dct:description xml:lang="it-t-en-t0-mtec">ebs_493_volumes_C_xls.zip</dct:description>
+            <dct:description xml:lang="es-t-en-t0-mtec">ebs_493_volumes_C_xls.zip</dct:description>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Odkaz na ebs_493_volumes_C_xls.zip.zip</dct:title>
+            <dct:description xml:lang="sl-t-en-t0-mtec">ebs_493_volumes_C_xls.zip</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/55d75263-90fc-46bc-aeb7-f99ac6d5f291</dct:identifier>
+            <dct:title xml:lang="et-t-en-t0-mtec">Link ebs_493_volumes_C_xls.zip.zip</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Link către ebs_493_volumes_C_xls.zip.zip</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Linkki sivustoon ebs_493_volumes_C_xls.zip.zip</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">ebs_493_volumes_C_xls.zip</dct:description>
+            <dct:description xml:lang="pt-t-en-t0-mtec">ebs_493_volumes_C_xls.zip</dct:description>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Poveznica na ebs_493_volumes_C_xls.zip.zip</dct:title>
+            <dct:description xml:lang="bg-t-en-t0-mtec">ebs_493_обемове_C_xls.zip</dct:description>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Povezava do ebs_493_volumes_C_xls.zip.zip</dct:title>
+            <dct:description xml:lang="cs-t-en-t0-mtec">ebs_493_volumes_C_xls.zip</dct:description>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Link do ebs_493_volumes_C_xls.zip.zip</dct:title>
+            <dct:description xml:lang="da-t-en-t0-mtec">ebs_493_volumes_C_xls.zip</dct:description>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Връзка към ebs_493_volumes_C_xls.zip.zip.zip</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Link għal ebs_493_volumes_C_xls.zip.zip</dct:title>
+            <dct:description xml:lang="hu-t-en-t0-mtec">ebs_493_volumes_C_xls.zip</dct:description>
+            <dct:description xml:lang="pl-t-en-t0-mtec">ebs_493_volumes_C_xls.zip</dct:description>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:description xml:lang="ga-t-en-t0-mtec">ebs_493_volumes_C_xls.zip</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Link para ebs_493_volumes_C_xls.zip.zip</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Nuoroda į ebs_493_volumes_C_xls.zip.zip</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Lien vers ebs_493_volumes_C_xls.zip.zip</dct:title>
+            <dct:description xml:lang="ro-t-en-t0-mtec">ebs_493_volumes_C_xls.zip</dct:description>
+            <dct:description xml:lang="de-t-en-t0-mtec">ebs_493_volumes_C_xls.zip</dct:description>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Nasc chuig ebs_493_volumes_C_xls.zip.zip</dct:title>
+            <dct:description xml:lang="sk-t-en-t0-mtec">ebs_493_volumes_C_xls.zip</dct:description>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Saite uz ebs_493_apjomu_C_xls.zip.zip</dct:title>
+            <dct:description xml:lang="lt-t-en-t0-mtec">ebs_493_tūris_C_xls.zip</dct:description>
+            <dct:description xml:lang="fi-t-en-t0-mtec">ebs_493_volumes_C_xls.zip</dct:description>
+            <dct:title xml:lang="el-t-en-t0-mtec">Σύνδεσμος προς ebs_493_volumes_C_xls.zip.zip</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">ebs_493_τόμοι_C_xls.zip</dct:description>
+            <dct:title xml:lang="it-t-en-t0-mtec">Link a ebs_493_volumes_C_xls.zip.zip</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Link zu ebs_493_volumes_C_xls.zip.zip</dct:title>
+            <dct:title xml:lang="en">Link to ebs_493_volumes_C_xls.zip.zip</dct:title>
+            <dcat:accessURL rdf:resource="https://webgate.ec.europa.eu/eurobarometer/api/public/odp/download?key=6A7FCD614E46D809191FD16D64141CD3"/>
+            <dct:title xml:lang="da-t-en-t0-mtec">Link til ebs_493_volumes_C_xls.zip.zip.zip</dct:title>
+            <dct:description xml:lang="sv-t-en-t0-mtec">ebs_493_volymer_C_xls.zip</dct:description>
+            <dct:title xml:lang="es-t-en-t0-mtec">Enlace a ebs_493_volumes_C_xls.zip.zip</dct:title>
+            <dct:description xml:lang="en">ebs_493_volumes_C_xls.zip</dct:description>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Link a következőhöz: ebs_493_volumes_C_xls.zip.zip</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2019-10-28</dct:issued>
+            <dct:description xml:lang="fr-t-en-t0-mtec">ebs_493_volumes_C_xls.zip</dct:description>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Odkaz na ebs_493_volumes_C_xls.zip.zip</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Länk till ebs_493_volym_C_xls.zip.zip</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:description xml:lang="mt-t-en-t0-mtec">ebs_493_volumes_C_xls.zip</dct:description>
+            <dct:description xml:lang="et-t-en-t0-mtec">ebs_493_volumes_C_xls.zip</dct:description>
+            <dct:description xml:lang="hr-t-en-t0-mtec">ebs_493_volumes_C_xls.zip</dct:description>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:description xml:lang="lv-t-en-t0-mtec">ebs_493_tilpumi_C_xls.zip</dct:description>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Link naar ebs_493_volumes_C_xls.zip.zip</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/58aac009-aa1f-40f9-98bc-7940a922322b">
+            <dct:description xml:lang="it-t-en-t0-mtec">ebs_493_volume_B_xls.zip</dct:description>
+            <dct:description xml:lang="fr-t-en-t0-mtec">ebs_493_volume_B_xls.zip</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Link naar ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Linkki sivustoon ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Link către ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Poveznica na ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Saite uz ebs_493_tilpums_B_xls.zip.zip</dct:title>
+            <dct:description xml:lang="mt-t-en-t0-mtec">ebs_493_volume_B_xls.zip</dct:description>
+            <dct:title xml:lang="es-t-en-t0-mtec">Enlace a ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">ebs_493_volume_B_xls.zip</dct:description>
+            <dct:description xml:lang="da-t-en-t0-mtec">ebs_493_volume_B_xls.zip</dct:description>
+            <dct:description xml:lang="sl-t-en-t0-mtec">ebs_493_volume_B_xls.zip</dct:description>
+            <dct:description xml:lang="hu-t-en-t0-mtec">ebs_493_volume_B_xls.zip</dct:description>
+            <dct:title xml:lang="de-t-en-t0-mtec">Link zu ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Odkaz na ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dct:description xml:lang="sv-t-en-t0-mtec">ebs_493_volym_B_xls.zip</dct:description>
+            <dct:description xml:lang="et-t-en-t0-mtec">ebs_493_volume_B_xls.zip</dct:description>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Връзка към ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Povezava do ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dct:description xml:lang="de-t-en-t0-mtec">ebs_493_volume_B_xls.zip</dct:description>
+            <dct:title xml:lang="et-t-en-t0-mtec">Link ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dct:description xml:lang="es-t-en-t0-mtec">ebs_493_volumen_B_xls.zip</dct:description>
+            <dct:description xml:lang="cs-t-en-t0-mtec">ebs_493_objem_B_xls.zip</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2019-10-28</dct:issued>
+            <dct:title xml:lang="en">Link to ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Odkaz na ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dct:description xml:lang="sk-t-en-t0-mtec">ebs_493_objem_B_xls.zip</dct:description>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Link do ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Σύνδεσμος προς ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Länk till ebs_493_volym_B_xls.zip.zip</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Nasc chuig ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dct:description xml:lang="en">ebs_493_volume_B_xls.zip</dct:description>
+            <dct:description xml:lang="lt-t-en-t0-mtec">ebs_493_tūris_B_xls.zip</dct:description>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Nuoroda į ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">ebs_493_volume_B_xls.zip</dct:description>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:description xml:lang="ga-t-en-t0-mtec">ebs_493_volume_B_xls.zip</dct:description>
+            <dct:description xml:lang="hr-t-en-t0-mtec">ebs_493_volume_B_xls.zip</dct:description>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Link a következőhöz: ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Link a ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">ebs_493_όγκος_B_xls.zip</dct:description>
+            <dct:title xml:lang="da-t-en-t0-mtec">Link til ebs_493_volume_B_xls.zip.zip.zip</dct:title>
+            <dcat:accessURL rdf:resource="https://webgate.ec.europa.eu/eurobarometer/api/public/odp/download?key=162F2541118AC491A4F54089291DB87A"/>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Link para ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dct:description xml:lang="bg-t-en-t0-mtec">ebs_493_обем_B_xls.zip</dct:description>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Link għal ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dct:description xml:lang="lv-t-en-t0-mtec">ebs_493_tilpums_B_xls.zip</dct:description>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/a5ae380c-6cf9-4746-ba8f-21ecc9ea2843</dct:identifier>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Lien vers ebs_493_volume_B_xls.zip.zip</dct:title>
+            <dct:description xml:lang="fi-t-en-t0-mtec">ebs_493_volume_B_xls.zip</dct:description>
+            <dct:description xml:lang="pt-t-en-t0-mtec">ebs_493_volume_B_xls.zip</dct:description>
+            <dct:description xml:lang="ro-t-en-t0-mtec">ebs_493_volume_B_xls.zip</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/FIN"/>
+        </dct:spatial>
+        <dct:description xml:lang="da-t-en-t0-mtec">Undersøgelsen fokuserer på personens opfattelse, holdninger og meninger om forskelsbehandling på grund af etnisk oprindelse, hudfarve, seksuel orientering, køn, alder, handicap, religion og tro. Det viser, at færre EU-borgere i forhold til 2015 nu opfatter forskelsbehandling som udbredt i deres land. Opfattelser, meninger og holdninger varierer dog stadig meget afhængigt af, hvilken gruppe der forskelsbehandles, og også fra land til land.
+Feltarbejde: 09-21/05/2019
+
+######Resultaterne fordelt på mængder som følger:
+* Bind A: Lande
+* Mængde AA: Landegrupper
+* Bind A' (AP): Tendenser
+* Volumen AA' (AAP): Tendenser i grupper af lande
+* Bind B: EU/sociodemografi
+* Bind B' (BP): Tendenser inden for EU/sociodemografi
+* Bind C: Land/sociodemografi
+—
+Forskere kan også kontakte GESIS — Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:description xml:lang="de-t-en-t0-mtec">Im Mittelpunkt der Umfrage stehen die Wahrnehmungen, Einstellungen und Meinungen von Diskriminierung aufgrund ethnischer Herkunft, Hautfarbe, sexueller Orientierung, Geschlecht, Alter, Behinderung, Religion und Weltanschauung. Sie zeigt, dass weniger EU-Bürger im Vergleich zu 2015 Diskriminierung heute als weit verbreitet in ihrem Land empfinden. Allerdings unterscheiden sich die Wahrnehmungen, Meinungen und Einstellungen nach wie vor stark von der diskriminierten Gruppe und von Land zu Land.
+Feldarbeit: 09-21/05/2019
+
+######Die Ergebnisse nach Volumes werden wie folgt verteilt:
+* Band A: Länder
+* Volumen AA: Ländergruppen
+* Band A' (AP): Trends
+* Volumen AA' (AAP): Trends von Gruppen von Ländern
+* Band B: EU/Soziodemografie
+* Band B' (BP): Trends in der EU/soziodemografischen
+* Band C: Land/Soziodemografie
+—
+Forscher können sich auch an GESIS – Leibniz-Institut für Sozialwissenschaften wenden: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/LUX"/>
+        </dct:spatial>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Erityiseurobarometri 493: Syrjintä eu:ssa (mukaan lukien hlbti-henkilöt)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/46e42231-611b-4f96-bf99-7b6ae84018be">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:description xml:lang="bg-t-en-t0-mtec">ebs_493_обем_AAP_xls.zip</dct:description>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Länk till ebs_493_volym_AAP_xls.zip.zip</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:description xml:lang="da-t-en-t0-mtec">ebs_493_volume_AAP_xls.zip</dct:description>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Nasc chuig ebs_493_volume_AAP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="sl-t-en-t0-mtec">ebs_493_volume_AAP_xls.zip</dct:description>
+            <dct:description xml:lang="hr-t-en-t0-mtec">ebs_493_volume_AAP_xls.zip</dct:description>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Linkki sivustoon ebs_493_volume_AAP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Poveznica na ebs_493_volume_AAP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Link ebs_493_volume_AAP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">ebs_493_volume_AAP_xls.zip</dct:description>
+            <dct:description xml:lang="lv-t-en-t0-mtec">ebs_493_tilpums_AAP_xls.zip</dct:description>
+            <dct:description xml:lang="ga-t-en-t0-mtec">ebs_493_volume_AAP_xls.zip</dct:description>
+            <dct:description xml:lang="et-t-en-t0-mtec">ebs_493_volume_AAP_xls.zip</dct:description>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2019-10-28</dct:issued>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Odkaz na ebs_493_volume_AAP_xls.zip.zip</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/cad76010-89ef-43d9-8804-0c8312c83a6e</dct:identifier>
+            <dct:description xml:lang="en">ebs_493_volume_AAP_xls.zip</dct:description>
+            <dct:title xml:lang="de-t-en-t0-mtec">Link zu ebs_493_volume_AAP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Link do ebs_493_volume_AAP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Link para ebs_493_volume_AAP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="mt-t-en-t0-mtec">ebs_493_volume_AAP_xls.zip</dct:description>
+            <dct:title xml:lang="it-t-en-t0-mtec">Link a ebs_493_volume_AAP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Povezava na ebs_493_volume_AAP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="de-t-en-t0-mtec">ebs_493_volume_AAP_xls.zip</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">ebs_493_objem_AAP_xls.zip</dct:description>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Link għal ebs_493_volume_AAP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Enlace a ebs_493_volume_AAP_xls.zip.zip</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="da-t-en-t0-mtec">Link til ebs_493_volume_AAP_xls.zip.zip.zip</dct:title>
+            <dct:description xml:lang="sv-t-en-t0-mtec">ebs_493_volym_AAP_xls.zip</dct:description>
+            <dct:title xml:lang="en">Link to ebs_493_volume_AAP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Връзка към ebs_493_volume_AAP_xls.zip.zip.zip</dct:title>
+            <dct:description xml:lang="pt-t-en-t0-mtec">ebs_493_volume_AAP_xls.zip</dct:description>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:description xml:lang="pl-t-en-t0-mtec">ebs_493_volume_AAP_xls.zip</dct:description>
+            <dct:description xml:lang="it-t-en-t0-mtec">ebs_493_volume_AAP_xls.zip</dct:description>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Saite uz ebs_493_tilpums_AAP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Link naar ebs_493_volume_AAP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Lien vers ebs_493_volume_AAP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Σύνδεσμος προς ebs_493_volume_AAP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="cs-t-en-t0-mtec">ebs_493_objem_AAP_xls.zip</dct:description>
+            <dct:description xml:lang="fr-t-en-t0-mtec">ebs_493_volume_AAP_xls.zip</dct:description>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Odkaz na ebs_493_volume_AAP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="ro-t-en-t0-mtec">ebs_493_volume_AAP_xls.zip</dct:description>
+            <dct:description xml:lang="hu-t-en-t0-mtec">ebs_493_volume_AAP_xls.zip</dct:description>
+            <dct:description xml:lang="fi-t-en-t0-mtec">ebs_493_volume_AAP_xls.zip</dct:description>
+            <dct:description xml:lang="el-t-en-t0-mtec">ebs_493_όγκος_AAP_xls.zip</dct:description>
+            <dcat:accessURL rdf:resource="https://webgate.ec.europa.eu/eurobarometer/api/public/odp/download?key=5B02E221BBFAB28B61AB59610EC7857C"/>
+            <dct:description xml:lang="lt-t-en-t0-mtec">ebs_493_tūris_AAP_xls.zip</dct:description>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Link către ebs_493_volume_AAP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Link a következőhöz: ebs_493_volume_AAP_xls.zip.zip</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Nuoroda į ebs_493_volume_AAP_xls.zip.zip</dct:title>
+            <dct:description xml:lang="es-t-en-t0-mtec">ebs_493_volumen_AAP_xls.zip</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Särskild Eurobarometer 493: Diskriminering i EU (inklusive hbti-personer)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ba363986-46f9-46a0-a8df-fcb5d5a42f8c">
+            <dcat:accessURL rdf:resource="https://europa.eu/eurobarometer/surveys/detail/2251"/>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Gedetailleerde informatie op de website van de publieke opinie</dct:title>
+            <dct:title xml:lang="en">Detailed information on public opinion website</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Podrobné informácie na webovom sídle verejnej mienky</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Detaljerad information på den allmänna opinionens webbplats</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="it-t-en-t0-mtec">Informazioni dettagliate sul sito web dell'opinione pubblica</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Informații detaliate pe site-ul web al opiniei publice</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Yksityiskohtaiset tiedot yleistä mielipidettä käsittelevällä verkkosivustolla</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/5b1ab239-0521-4549-8724-5156de3ed0f7</dct:identifier>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Подробна информация на уебсайта на общественото мнение</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Részletes információk a közvélemény honlapján</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Informazzjoni dettaljata dwar is-sit web tal-opinjoni pubblika</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Detaljerede oplysninger på webstedet for den offentlige mening</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Üksikasjalik teave avaliku arvamuse veebisaidil</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Podrobné informace na internetových stránkách veřejného mínění</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Faisnéis mhionsonraithe ar shuíomh gréasáin thuairimí an phobail</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Informations détaillées sur le site web de l’opinion publique</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="de-t-en-t0-mtec">Detaillierte Informationen auf der Website der öffentlichen Meinung</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Detaljne informacije na internetskoj stranici javnog mnijenja</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Información detallada en el sitio web de la opinión pública</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Sīkāka informācija sabiedriskās domas tīmekļa vietnē</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Λεπτομερείς πληροφορίες στον ιστότοπο της κοινής γνώμης</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Szczegółowe informacje na stronie internetowej opinii publicznej</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Išsami informacija viešosios nuomonės svetainėje</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Podrobne informacije na spletni strani javnega mnenja</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Informações pormenorizadas sobre o sítio da opinião pública</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="hu-t-en-t0-mtec">A felmérés középpontjában az etnikai származáson, bőrszínen, szexuális irányultságon, nemen, életkoron, fogyatékosságon, valláson és meggyőződésen alapuló megkülönböztetés felfogása, hozzáállása és véleménye áll. Ez azt mutatja, hogy 2015-höz képest kevesebb uniós polgár érzékeli, hogy a megkülönböztetés széles körben elterjedt az országukban. A vélemények, vélemények és attitűdök azonban még mindig igen eltérőek a hátrányos megkülönböztetésben részesülő csoporttól és az egyes országoktól függően.
+Terepmunka: 09–21/05/2019 
+######A kötetek szerinti eredmények a következőképpen oszlanak meg:
+* A kötet: Országok * AA kötet:
+Országcsoportok
+* A’ kötet (AP):
+Tendenciák * AA’ kötet (AAP):
+Az országcsoportok tendenciái * B kötet:
+EU/társadalmi-demográfia * B’ kötet (BP):
+Az EU/társadalmi-demográfia tendenciái 
+* C kötet:
+Ország/társadalmi-demográfia
+
+–
+
+A kutatók a GESIS-hez – Leibniz Társadalomtudományi Intézethez is fordulhatnak:
+[https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/PRT"/>
+        </dct:spatial>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/486a1a8f-8c51-4806-98c0-c7a43d1e8ba2">
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/35d75d95-688a-4be5-95b7-494257d4ab2e">
+                <vcard:street-address>Rue de La Loi, 56, Brussels</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="https://europa.eu/eurobarometer">
+                <j.1:url>https://europa.eu/eurobarometer</j.1:url>
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:hasEmail rdf:resource="mailto:Eurobarometer@ec.europa.eu"/>
+            <vcard:organisation-name>DG COMM</vcard:organisation-name>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <owl:versionInfo>v1.00</owl:versionInfo>
+        <dct:description xml:lang="el-t-en-t0-mtec">Η έρευνα επικεντρώνεται στις αντιλήψεις, τις στάσεις και τις απόψεις του ατόμου σχετικά με τις διακρίσεις λόγω εθνοτικής καταγωγής, χρώματος δέρματος, γενετήσιου προσανατολισμού, φύλου, ηλικίας, αναπηρίας, θρησκείας και πεποιθήσεων. Δείχνει ότι, σε σύγκριση με το 2015, λιγότεροι πολίτες της ΕΕ θεωρούν πλέον ότι οι διακρίσεις είναι διαδεδομένες στη χώρα τους. Ωστόσο, οι αντιλήψεις, οι απόψεις και οι στάσεις εξακολουθούν να διαφέρουν σημαντικά ανάλογα με την ομάδα που υφίσταται διακρίσεις και επίσης από χώρα σε χώρα.
+Επιτόπιες εργασίες: 09-21/05/2019 
+######Τα αποτελέσματα ανά όγκο κατανέμονται ως εξής:
+* Όγκος Α: Χώρες * Όγκος AA:
+Ομάδες χωρών
+* Όγκος Α’ (AP):
+Τάσεις * Όγκος AA’ (AAP):
+Τάσεις των ομάδων χωρών * Όγκος Β:
+ΕΕ/κοινωνικοδημογραφικά στοιχεία * Όγκος Β’ (BP):
+Τάσεις της ΕΕ/κοινωνικοδημογραφικά στοιχεία
+* Όγκος Γ: Χώρα/κοινωνικοδημογραφικά στοιχεία
+
+—
+
+Οι ερευνητές μπορούν επίσης να επικοινωνήσουν με το GESIS — Leibniz Institute for the Social Sciences:
+[https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Специално проучване на Евробарометър № 493: Дискриминация в ЕС (включително ЛГБТИ)</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Eurobarometro speciale 493: Discriminazione nell'UE (comprese le persone LGBTI)</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Eirobarometra speciālaptauja Nr. 493: Diskriminācija ES (tostarp LGBTI)</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/CZE"/>
+        </dct:spatial>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Speciale Eurobarometer 493: Discriminatie in de EU (inclusief LGBTI)</dct:title>
+        <dct:description xml:lang="pt-t-en-t0-mtec">O inquérito centra-se nas perceções, atitudes e opiniões da pessoa em matéria de discriminação com base na origem étnica, na cor da pele, na orientação sexual, no sexo, na idade, na deficiência, na religião e nas crenças. Mostra que, em comparação com 2015, menos cidadãos da UE consideram atualmente a discriminação generalizada no seu país.No entanto, as perceções, opiniões e atitudes ainda variam muito dependendo do grupo discriminado e também de país para país.
+ Trabalho de campo:09-21/05/2019
+
+######Os resultados por volumes são distribuídos da seguinte forma:  * Volume A:Países
+* Volume AA:
+Grupos de países * Volume A' (AP):
+Tendências
+* Volume AA' (AAP): Tendências dos grupos de países
+* Volume B:
+UE/sociodemografia * Volume B' (BP):
+Tendências da UE/sociodemográficas
+* Volume C:
+País/sociodemografia  —
+
+Os pesquisadores também podem entrar em contato com o GESIS — Leibniz Institute for the Social Sciences:
+[https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:description xml:lang="mt-t-en-t0-mtec">L-istħarriġ jiffoka fuq il-perċezzjonijiet, l-attitudnijiet u l-opinjonijiet tal-persuna dwar id-diskriminazzjoni bbażata fuq l-oriġini etnika, il-kulur tal-ġilda, l-orjentazzjoni sesswali, is-sess, l-età, id-diżabbiltà, ir-reliġjon u t-twemmin. Dan juri li, meta mqabbel mal-2015, inqas ċittadini tal-UE issa jqisu d-diskriminazzjoni bħala mifruxa f’pajjiżhom.Madankollu, il-perċezzjonijiet, l-opinjonijiet u l-attitudnijiet għadhom ivarjaw ħafna skont il-grupp diskriminat u anke minn pajjiż għall-ieħor.
+ Xogħol fuq il-post:09–21/05/2019
+
+#####Ir-riżultati skont il-volumi jitqassmu kif ġej:  * Volum A:Pajjiżi
+* Volum AA:
+Gruppi ta’ pajjiżi * Volum A’ (AP):
+Tendenzi
+* Volum AA’ (AAP): Xejriet ta’ gruppi ta’ pajjiżi
+* Volum B:
+UE/soċjodemografija * Volum B’ (BP):
+Xejriet tal-UE/tas-soċjodemografija
+* Volum Ċ:
+Pajjiż/soċjodemografija  —
+
+Riċerkaturi jistgħu wkoll jikkuntattjaw GESIS — Leibniz Istitut għax-Xjenzi Soċjali:
+[https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:identifier>S2251_91_4_493_ENG</dct:identifier>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/853ec56a-d131-4233-9650-bcb1e845f7aa">
+            <dct:description xml:lang="el-t-en-t0-mtec">ebs_493_όγκος_AA_xls.zip</dct:description>
+            <dct:description xml:lang="ga-t-en-t0-mtec">ebs_493_volume_AA_xls.zip</dct:description>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Saite uz ebs_493_apjoms_AA_xls.zip.zip</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Link zu ebs_493_volume_AA_xls.zip.zip</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Nuoroda į ebs_493_volume_AA_xls.zip.zip</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Link ebs_493_volume_AA_xls.zip.zip</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="en">Link to ebs_493_volume_AA_xls.zip.zip</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/0dd14ab7-0f06-404b-80f9-83a8474ab2e3</dct:identifier>
+            <dct:description xml:lang="ro-t-en-t0-mtec">ebs_493_volume_AA_xls.zip</dct:description>
+            <dct:description xml:lang="pl-t-en-t0-mtec">ebs_493_volume_AA_xls.zip</dct:description>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Link do ebs_493_volume_AA_xls.zip.zip.zip</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">ebs_493_volume_AA_xls.zip</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Link para ebs_493_volume_AA_xls.zip.zip</dct:title>
+            <dct:description xml:lang="bg-t-en-t0-mtec">ebs_493_volume_AA_xls.zip</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Link naar ebs_493_volume_AA_xls.zip.zip</dct:title>
+            <dct:description xml:lang="et-t-en-t0-mtec">ebs_493_volume_AA_xls.zip</dct:description>
+            <dct:description xml:lang="mt-t-en-t0-mtec">ebs_493_volume_AA_xls.zip</dct:description>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Linkki sivustoon ebs_493_volume_AA_xls.zip.zip</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:description xml:lang="fi-t-en-t0-mtec">ebs_493_volume_AA_xls.zip</dct:description>
+            <dct:description xml:lang="sv-t-en-t0-mtec">ebs_493_volym_AA_xls.zip</dct:description>
+            <dct:title xml:lang="es-t-en-t0-mtec">Enlace a ebs_493_volume_AA_xls.zip.zip</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Lien vers ebs_493_volume_AA_xls.zip.zip</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Σύνδεσμος προς ebs_493_volume_AA_xls.zip.zip</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="it-t-en-t0-mtec">Link a ebs_493_volume_AA_xls.zip.zip</dct:title>
+            <dct:description xml:lang="en">ebs_493_volume_AA_xls.zip</dct:description>
+            <dct:description xml:lang="hu-t-en-t0-mtec">ebs_493_volume_AA_xls.zip</dct:description>
+            <dct:description xml:lang="lv-t-en-t0-mtec">ebs_493_tilpums_AA_xls.zip</dct:description>
+            <dct:description xml:lang="fr-t-en-t0-mtec">ebs_493_volume_AA_xls.zip</dct:description>
+            <dct:description xml:lang="da-t-en-t0-mtec">ebs_493_volume_AA_xls.zip</dct:description>
+            <dct:description xml:lang="hr-t-en-t0-mtec">ebs_493_volume_AA_xls.zip</dct:description>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Nasc chuig ebs_493_volume_AA_xls.zip.zip</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Връзка към ebs_493_volume_AA_xls.zip.zip.zip</dct:title>
+            <dct:description xml:lang="sk-t-en-t0-mtec">ebs_493_objem_AA_xls.zip</dct:description>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Link għal ebs_493_volume_AA_xls.zip.zip</dct:title>
+            <dct:description xml:lang="de-t-en-t0-mtec">ebs_493_volume_AA_xls.zip</dct:description>
+            <dct:description xml:lang="lt-t-en-t0-mtec">ebs_493_tomas_AA_xls.zip</dct:description>
+            <dct:description xml:lang="cs-t-en-t0-mtec">ebs_493_volume_AA_xls.zip</dct:description>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Odkaz na ebs_493_volume_AA_xls.zip.zip</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Link către ebs_493_volume_AA_xls.zip.zip</dct:title>
+            <dct:description xml:lang="it-t-en-t0-mtec">ebs_493_volume_AA_xls.zip</dct:description>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:description xml:lang="sl-t-en-t0-mtec">ebs_493_volume_AA_xls.zip</dct:description>
+            <dct:description xml:lang="es-t-en-t0-mtec">ebs_493_volumen_AA_xls.zip</dct:description>
+            <dcat:accessURL rdf:resource="https://webgate.ec.europa.eu/eurobarometer/api/public/odp/download?key=D0C7081D07CB08A88C7E033A4B43C1D9"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2019-10-28</dct:issued>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Poveznica na ebs_493_volume_AA_xls.zip.zip</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Link a következőhöz: ebs_493_volume_AA_xls.zip.zip</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Link til ebs_493_volume_AA_xls.zip.zip.zip</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Odkaz na ebs_493_volume_AA_xls.zip.zip</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Povezava do ebs_493_volume_AA_xls.zip.zip</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Länk till ebs_493_volym_AA_xls.zip.zip</dct:title>
+            <dct:description xml:lang="pt-t-en-t0-mtec">ebs_493_volume_AA_xls.zip</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/SWE"/>
+        </dct:spatial>
+        <dcat:keyword xml:lang="en">roma</dcat:keyword>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/IRL"/>
+        </dct:spatial>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Undersökningen fokuserar på människors uppfattningar, attityder och åsikter om diskriminering på grund av etniskt ursprung, hudfärg, sexuell läggning, kön, ålder, funktionshinder, religion och övertygelse. Det visar att färre EU-medborgare än 2015 uppfattar diskriminering som utbredd i sitt land.Uppfattningar, åsikter och attityder varierar dock fortfarande mycket beroende på vilken grupp som diskrimineras och även från land till land.
+ Fältarbete:09–21/05/2019
+
+#####Resultaten per volym fördelas enligt följande:  * Volym A:Länder
+* Volym AA:
+Grupper av länder * Volym A’ (AP):
+Utvecklingstendenser
+* Volym AA’ (AAP): Trender för grupper av länder
+* Volym B:
+EU/sociodemografi * Volym B’ (BP):
+Trender för EU/sociodemografi
+* Volym C:
+Land/sociodemografi  —
+
+Forskare kan också kontakta GESIS – Leibniz Institute for the samhällsvetenskap:
+[https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/SVK"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/ESP"/>
+        </dct:spatial>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Prieskum sa zameriava na vnímanie osôb, postoje a názory diskriminácie na základe etnického pôvodu, farby pleti, sexuálnej orientácie, pohlavia, veku, zdravotného postihnutia, náboženstva a viery. Ukazuje sa, že v porovnaní s rokom 2015 menej občanov EÚ vníma diskrimináciu ako rozšírenú vo svojej krajine.Vnímanie, názory a postoje sa však stále značne líšia v závislosti od diskriminovanej skupiny, ako aj od krajiny k krajine.
+ Práca v teréne:09 – 21/05/2019
+
+######Výsledky podľa objemov sú rozdelené takto:  * Zväzok A:Krajiny
+* Objem AA:
+Skupiny krajín * Zväzok A' (AP):
+Trendy
+* Objem AA' (AAP): Trendy skupín krajín
+* Zväzok B:
+EÚ/sociodemografické materiály * Zväzok B' (BP):
+Trendy v EÚ/socio-demografii
+* Objem C:
+Krajina/sociodemografické údaje  —
+
+Výskumní pracovníci sa môžu obrátiť aj na GESIS – Leibniz Institute for the Social Sciences:
+[https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Ewrobarometru Speċjali 493: Diskriminazzjoni fl-UE (inklużi LGBTI)</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/HUN"/>
+        </dct:spatial>
+        <dct:identifier>http://data.europa.eu/88u/dataset/S2251_91_4_493_ENG</dct:identifier>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/CYP"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/EST"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/ROU"/>
+        </dct:spatial>
+        <dct:description xml:lang="nl-t-en-t0-mtec">De enquête spitst zich toe op de percepties, houdingen en meningen van personen over discriminatie op grond van etnische afkomst, huidskleur, seksuele geaardheid, geslacht, leeftijd, handicap, godsdienst en overtuiging. Hieruit blijkt dat in vergelijking met 2015 minder EU-burgers discriminatie nu als wijdverbreid in hun land beschouwen.De percepties, meningen en attitudes lopen echter nog steeds sterk uiteen, afhankelijk van de gediscrimineerde groep en ook van land tot land.
+ Veldwerk:09-21/05/2019
+
+#####De resultaten per volume worden als volgt verdeeld:  * Volume A:Landen
+* Volume AA:
+Groepen van landen * Volume A' (AP):
+Tendensen
+* Volume AA' (AAP): Tendensen van groepen landen
+* Volume B:
+EU/sociaal-demografie * Volume B' (BP):
+Trends van de EU/sociaal-demografie
+* Volume C:
+Land/sociaal-demografie  —
+
+Onderzoekers kunnen ook contact opnemen met GESIS — Leibniz Institute for the Social Sciences:
+[https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dcat:landingPage rdf:resource="http://data.europa.eu/euodp/en/data/dataset/S2251_91_4_493_ENG"/>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Zvláštní průzkum Eurobarometr 493: Diskriminace v EU (včetně LGBTI osob)</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/BEL"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/LVA"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/BGR"/>
+        </dct:spatial>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Eurobarometrul special 493: Discriminarea în UE (inclusiv LGBTI)</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Posebna raziskava Eurobarometra št. 493: Diskriminacija v EU (vključno z LGBTI)</dct:title>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Posebno istraživanje Eurobarometra br. 493: Diskriminacija u EU-u (uključujući LGBTI)</dct:title>
+        <dct:description xml:lang="et-t-en-t0-mtec">Uuringus keskendutakse inimeste arusaamadele, hoiakutele ja arvamustele diskrimineerimise kohta etnilise päritolu, nahavärvi, seksuaalse sättumuse, soo, vanuse, puude, usutunnistuse ja veendumuste alusel. See näitab, et võrreldes 2015. aastaga tajub vähem ELi kodanikke, et diskrimineerimine on nende riigis laialt levinud. Siiski on arusaamad, arvamused ja hoiakud endiselt väga erinevad sõltuvalt diskrimineeritavast rühmast ja ka riigiti.
+Välitööd: 09–21/05/2019 
+#####Tulemused jaotatakse mahtude kaupa järgmiselt:
+* A köide: Riigid * Maht AA:
+Riikide rühmad
+* Köide A’ (AP):
+Suundumused * Maht AA’ (AAP):
+Riikide rühmade suundumused * Köide B:
+ELi/sotsiaaldemograafilised küsimused * Maht B’ (BP):
+ELi/sotsiaaldemograafilised suundumused
+* Köide C: Riik/ühiskond-demograafilised andmed
+
+–
+
+Teadlased võivad võtta ühendust ka GESISega – Leibniz Institute for the Social Sciences:
+[https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/GBR"/>
+        </dct:spatial>
+        <dct:description xml:lang="en">The survey focusses on person’s perceptions, attitudes and opinions of discrimination based on ethnic origin, skin colour, sexual orientation, gender, age, disability, religion, and beliefs. It shows that, compared to 2015, fewer EU citizens now perceive discrimination as being widespread in their country. However, perceptions, opinions and attitudes still vary widely depending on the group discriminated against and also from country to country.
+Fieldwork: 09-21/05/2019
+
+#####The results by volumes are distributed as follows:
+* Volume A: Countries
+* Volume AA: Groups of countries
+* Volume A' (AP): Trends
+* Volume AA' (AAP): Trends of groups of countries
+* Volume B: EU/socio-demographics
+* Volume B' (BP) : Trends of EU/ socio-demographics 
+* Volume C: Country/socio-demographics
+  ----
+Researchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/GRC"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/HRV"/>
+        </dct:spatial>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Aptaujā galvenā uzmanība pievērsta personas uzskatiem, attieksmei un uzskatiem par diskrimināciju etniskās izcelsmes, ādas krāsas, seksuālās orientācijas, dzimuma, vecuma, invaliditātes, reliģijas un pārliecības dēļ. Tas liecina, ka salīdzinājumā ar 2015. gadu mazāk ES pilsoņu tagad uzskata, ka diskriminācija ir plaši izplatīta viņu valstī. Tomēr uzskati, viedokļi un attieksme joprojām ir ļoti atšķirīgi atkarībā no diskriminētās grupas, kā arī no katras valsts.
+Praktiskais darbs:09–21/05/2019
+  ####Rezultāti pēc apjomiem tiek sadalīti šādi:
+* A sējums:Valstis
+
+* Apjoms AA: Valstu grupas
+* Tilpums A’ (AP): Tendences
+* Tilpums AA’ (AAP): Valstu grupu tendences
+* Apjoms B:ES/sociodemogrāfiskie jautājumi
+ * Apjoms B’ (BP):
+ES/sociodemogrāfijas tendences
+
+* Tilpums C:
+Valsts/sociodemogrāfija
+
+—
+
+Pētnieki var arī sazināties ar GESIS — Leibniz Sociālo zinātņu institūtu:
+[https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)</dct:description>
+      </dcat:Dataset>
+    </foaf:topic>
+    <j.1:url>http://data.europa.eu/euodp/en/data/dataset/S2251_91_4_493_ENG</j.1:url>
+  </foaf:Document>
+</rdf:RDF>
