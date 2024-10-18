@@ -1,6 +1,6 @@
 ### Español
 
-# 🎯 Portafolio Profesional
+# 🎯 Portfolio Profesional
 
 ¡Bienvenidos a mi repositorio de GitHub! Aquí comparto algunos de mis proyectos más destacados relacionados con **Programación**, **Análisis de Datos** y **Ciencia de Datos**. Cada proyecto refleja mi pasión por la tecnología y mi compromiso con la mejora continua de mis habilidades profesionales. 
 
@@ -21,7 +21,7 @@ Próximamente me gustaría expandir mi conocimiento en áreas como **Big Data**,
 ## 📌 Próximos Proyectos
 Este repositorio se actualizará regularmente con nuevos proyectos en las áreas de **Machine Learning**, **Visualización de Datos**, y **Automatización**.
 
-¡Gracias por visitar mi portafolio! Si tienes alguna sugerencia o comentario, no dudes en contactarme.
+¡Gracias por visitar mi portfolio! Si tienes alguna sugerencia o comentario, no dudes en contactarme.
 
 ---
 
