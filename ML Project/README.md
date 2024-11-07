@@ -1,3 +1,4 @@
+![Cabecera](../images/cabecera.png)
 # 🧠 Proyecto de Machine Learning: Predicción de la Cronificación de la Depresión
 
 ### ESPAÑOL 🇪🇸
