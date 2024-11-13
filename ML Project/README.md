@@ -1,3 +1,5 @@
+<img src="images/cabecera.png" alt="cabecera" width="900" height="500">
+
 # 🧠 Proyecto de Machine Learning: Predicción de la Cronificación de la Depresión
 
 ### ESPAÑOL 🇪🇸
